@@ -23,7 +23,7 @@
 		<string>士林區</string>
 		<string>北投區</string>
 		<string>信義區</string>
-		<string>中正區</string>				
+		<string>中正區</string>
 		<string>萬華區</string>
 		<string>文山區</string>
 	</array>
@@ -31,33 +31,33 @@
 	<array>
 		<string>板橋區</string>
 		<string>三重區</string>
-		<string>永和區</string>		
-		<string>中和區</string>		
-		<string>新莊區</string>		
-		<string>新店區</string>		
-		<string>土城區</string>		
-		<string>蘆洲區</string>		
+		<string>永和區</string>
+		<string>中和區</string>
+		<string>新莊區</string>
+		<string>新店區</string>
+		<string>土城區</string>
+		<string>蘆洲區</string>
 		<string>汐止區</string>
-		<string>樹林區</string>		
-		<string>鶯歌區</string>		
-		<string>三峽區</string>		
-		<string>淡水區</string>		
-		<string>瑞芳區</string>		
-		<string>五股區</string>		
-		<string>泰山區</string>		
-		<string>林口區</string>		
-		<string>深坑區</string>		
+		<string>樹林區</string>
+		<string>鶯歌區</string>
+		<string>三峽區</string>
+		<string>淡水區</string>
+		<string>瑞芳區</string>
+		<string>五股區</string>
+		<string>泰山區</string>
+		<string>林口區</string>
+		<string>深坑區</string>
 		<string>石碇區</string>
-		<string>坪林區</string>		
-		<string>三芝區</string>		
-		<string>石門區</string>		
-		<string>八里區</string>		
-		<string>平溪區</string>		
-		<string>雙溪區</string>		
-		<string>貢寮區</string>		
-		<string>金山區</string>		
-		<string>萬里區</string>		
-		<string>烏來區</string>		
+		<string>坪林區</string>
+		<string>三芝區</string>
+		<string>石門區</string>
+		<string>八里區</string>
+		<string>平溪區</string>
+		<string>雙溪區</string>
+		<string>貢寮區</string>
+		<string>金山區</string>
+		<string>萬里區</string>
+		<string>烏來區</string>
 	</array>
 	<key>桃園市</key>
 	<array>
@@ -73,7 +73,7 @@
 		<string>龍潭區</string>
 		<string>新屋區</string>
 		<string>觀音區</string>
-		<string>復興區</string>		
+		<string>復興區</string>
 	</array>
 	<key>新竹縣</key>
 	<array>
@@ -177,7 +177,7 @@
 		<string>芳苑鄉</string>
 		<string>大城鄉</string>
 		<string>竹塘鄉</string>
-		<string>溪州鄉</string>		
+		<string>溪州鄉</string>
 	</array>
 	<key>南投縣</key>
 	<array>
@@ -214,9 +214,9 @@
 		<string>褒忠鄉</string>
 		<string>臺西鄉</string>
 		<string>元長鄉</string>
-		<string>四湖鄉</string>	
+		<string>四湖鄉</string>
 		<string>口湖鄉</string>
-		<string>水林鄉</string>	
+		<string>水林鄉</string>
 	</array>
 	<key>嘉義縣</key>
 	<array>
@@ -359,7 +359,7 @@
 		<string>春日鄉</string>
 		<string>獅子鄉</string>
 		<string>牡丹鄉</string>
-		<string>三地門鄉</string>	
+		<string>三地門鄉</string>
 	</array>
 	<key>宜蘭縣</key>
 	<array>
