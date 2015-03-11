@@ -59,21 +59,21 @@
 		<string>萬里區</string>		
 		<string>烏來區</string>		
 	</array>
-	<key>桃園縣</key>
+	<key>桃園市</key>
 	<array>
-		<string>桃園市</string>
-		<string>中壢市</string>
-		<string>平鎮市</string>
-		<string>八德市</string>
-		<string>楊梅市</string>
-		<string>大溪鎮</string>
-		<string>蘆竹鄉</string>
-		<string>大園鄉</string>
-		<string>龜山鄉</string>
-		<string>龍潭鄉</string>
-		<string>新屋鄉</string>
-		<string>觀音鄉</string>
-		<string>復興鄉</string>		
+		<string>桃園區</string>
+		<string>中壢區</string>
+		<string>平鎮區</string>
+		<string>八德區</string>
+		<string>楊梅區</string>
+		<string>大溪區</string>
+		<string>蘆竹區</string>
+		<string>大園區</string>
+		<string>龜山區</string>
+		<string>龍潭區</string>
+		<string>新屋區</string>
+		<string>觀音區</string>
+		<string>復興區</string>		
 	</array>
 	<key>新竹縣</key>
 	<array>
